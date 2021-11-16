@@ -1,0 +1,15 @@
+.main-tables-containe {
+    display: flex;
+    margin: 0 auto;
+}
+
+.main-product-detail {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.planes-container--slider {
+    justify-content: center;
+}
